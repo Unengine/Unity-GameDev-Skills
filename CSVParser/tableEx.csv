@@ -1,0 +1,7 @@
+item_id,name,item_type,attack,defense
+100000,나뭇가지,Weapon,10,0
+100001,낡은 검,Weapon,20,0
+100010,전설의 검,Weapon,999,0
+200000,누더기,Armor,0,10
+200005,체인메일,Armor,0,50
+200011,가시 갑옷,Armor,50,200
